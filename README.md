@@ -30,3 +30,13 @@ Este é um aplicativo React desenvolvido como trabalho de fim de semestre, com o
 
 ```bash
 git clone https://github.com/Leandrodias10/cadastro-produtos.git
+
+
+## Deploy Online
+
+O projeto está hospedado e disponível online no Vercel.
+
+Acesse o link para testar a aplicação ao vivo:
+
+[https://vercel.com/leandrodias-projects/cadastro-produtos](https://vercel.com/leandrodias-projects/cadastro-produtos)
+
