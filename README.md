@@ -2,6 +2,16 @@
 
 Este é um aplicativo React desenvolvido como trabalho de fim de semestre, com o objetivo de praticar integração com API, gerenciamento de estado, e uso de bibliotecas como Material UI, Axios e React Router.
 
+
+## Deploy Online
+
+O projeto está hospedado e disponível online no Vercel.
+
+Acesse o link para testar a aplicação ao vivo:
+
+[https://vercel.com/leandrodias-projects/cadastro-produtos](https://vercel.com/leandrodias-projects/cadastro-produtos)
+
+
 ## Funcionalidades
 
 - Cadastro de produtos através de formulário interativo.
@@ -30,13 +40,3 @@ Este é um aplicativo React desenvolvido como trabalho de fim de semestre, com o
 
 ```bash
 git clone https://github.com/Leandrodias10/cadastro-produtos.git
-
-
-## Deploy Online
-
-O projeto está hospedado e disponível online no Vercel.
-
-Acesse o link para testar a aplicação ao vivo:
-
-[https://vercel.com/leandrodias-projects/cadastro-produtos](https://vercel.com/leandrodias-projects/cadastro-produtos)
-
